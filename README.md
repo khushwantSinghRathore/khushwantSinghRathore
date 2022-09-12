@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [myworkprofile.web.app](https://ksrproducts.web.app/)
+- 👨‍💻 All of my projects are available at [KSR Products & Services](https://ksrproducts.web.app/)
 
-- 💬 Ask me about **Angular Cordova & Ionic.**
+- 💬 Ask me about **Angular Cordova , Capacitor  & Ionic.**
 
-- 📫 How to reach me **khushu36@gmail.com**
+- 📫 How to reach me **dev.khushwantsinghrathore@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

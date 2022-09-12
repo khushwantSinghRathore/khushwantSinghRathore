@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [KSR Products & Services](https://ksrproducts.web.app/)
 
-- 💬 Ask me about **Angular Cordova , Capacitor  & Ionic.**
+- 💬 Ask me about **Angular, Cordova, Capacitor  & Ionic.**
 
 - 📫 How to reach me **dev.khushwantsinghrathore@gmail.com**
 

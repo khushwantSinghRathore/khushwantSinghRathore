@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushwant Singh Rathore</h1>
-<h3 align="center">I'm a Computer Science student. As a student developer for the foregoing 5 years, I've learnt various languages and data structures. I got my exposure to the software development field when I preferred Computer Science in high school. During my college sessions apart from my studies, I've worked on certain projects. I was a core team member of the Developer Student Clubs by DSC Lead in my university</h3>
+<h3 align="center">I am a Software Engineer who worked on the Web as well as Mobile Platform and Developed and Shipped over 20+ Mobile Applications and 10+ PWA. I have 5+ Years of experience developing Hybrid, Cross-platform Apps and Progressive Web Apps. I have worked with Angular, NodeJs, Cordova, Capacitor, Firebase, Android and IOS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushwantsinghrathore&label=Profile%20views&color=0e75b6&style=flat" alt="khushwantsinghrathore" /> </p>
 

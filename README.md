@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [KSR Products & Services](https://ksrproducts.web.app/)
+- 👨‍💻 All of my projects are available here!
 
 - 💬 Ask me about **Angular, Cordova, Capacitor  & Ionic.**
 
